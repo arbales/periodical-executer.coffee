@@ -1,0 +1,6 @@
+PeriodicalExecuter.coffee
+This class is a port of the PeriodicalExecuter class found in Sam Stephenson's Prototype.js
+
+(c) 2011 Austin Bales
+PeriodicalExecuter is freely distributable under the MIT license.
+   
