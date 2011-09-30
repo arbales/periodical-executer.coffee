@@ -1,6 +1,9 @@
 PeriodicalExecuter.coffee
 This class is a port of the PeriodicalExecuter class found in Sam Stephenson's Prototype.js
 
+> **Q.**   Austin, why use this over `setInterval`?    
+> **A.**   So you can start and stop the executer or change the function it calls. 
+
 (c) 2011 Austin Bales
 PeriodicalExecuter is freely distributable under the MIT license.
    
